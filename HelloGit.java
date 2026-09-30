@@ -5,5 +5,6 @@ public class HelloGit{
         System.out.println("I am practicing git branches...");
         System.out.println("I am learning Git and GitHub for placements.");
         System.out.println("Learning Pull Request..");
+        System.out.println("Learning Git status..");
     }
 }
